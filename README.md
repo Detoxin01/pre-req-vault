@@ -40,7 +40,7 @@ outer transaction, so no extra signer seeds are needed for this call.
 
 ## Architecture diagram
 
-(coming soon)
+![Architecture diagram](diagram.png)
 
 ## Video walkthrough
 
