@@ -44,7 +44,7 @@ outer transaction, so no extra signer seeds are needed for this call.
 
 ## Video walkthrough
 
-(coming soon)
+https://youtu.be/dRIww5uu9Ds
 
 ## Run the tests
 
